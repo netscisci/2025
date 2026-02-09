@@ -4,14 +4,13 @@ description: "A NetSci 2025 Satellite Workshop"
 timezone: Europe/Vienna
 
 navigation:
-  Home: "/"
-  Call for Papers: "/cfp"
-  Accepted Papers: "/papers"
-  Speakers: "/speakers"
-  Schedule: "/schedule"
-  Organizers: "/organizers"
-  2023: "/2023"
-  2024: "/2024"
+  Home: "/2025/"
+  Call for Papers: "/2025/cfp"
+  Accepted Papers: "/2025/papers"
+  Speakers: "/2025/speakers"
+  Schedule: "/2025/schedule"
+  Organizers: "/2025/organizers"
+  Back: "https://netscisci.github.io/"
 
 markdown: kramdown
 
